@@ -3,9 +3,8 @@ This program will take all array values listed and output the sum.
 */
 
 package tameana;
-import java.util.Random;
 
-class RandomNumGen {
+class AddArrayList {
 	public static void main (String[] args) {
 		//array values
 		int cabbage[] = {31, 34, 12, 14, 23};
