@@ -4,7 +4,7 @@ This program is to practice utilizing multi dimensional arrays in JAVA.
 
 package tameana;
 
-class apples{
+class MultiDimensionalArrays{
     public static void main(String[] args){
         //create an array for a row and column of data
     	int firstArray[][]= { {8,23,59,12,0},{7,52,11,9,500} };
